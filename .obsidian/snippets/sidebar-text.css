@@ -1,0 +1,7 @@
+.nav-folder-title, .nav-folder-title-content, .nav-file-title, .nav-file-title-content {
+  max-width: 100%;
+}
+
+.nav-folder-title-content, .nav-file-title-content {
+  white-space: break-spaces;
+}

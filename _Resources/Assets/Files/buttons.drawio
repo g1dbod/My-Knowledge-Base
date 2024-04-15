@@ -1,0 +1,19 @@
+<mxfile host="app.diagrams.net" modified="2024-04-13T14:10:59.527Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="ir785hw_I4gCASOELmDJ" version="24.2.2" type="device">
+  <diagram name="Страница — 1" id="Ujv-k7nxxoMeEbaMZR0F">
+    <mxGraphModel dx="1434" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pTYojIc0oZa6jpkdswAN-1" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 18px;&quot;&gt;Daily Note&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFFFF;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="190" y="130" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pTYojIc0oZa6jpkdswAN-2" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 18px;&quot;&gt;Open Graph&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFFFF;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="190" y="190" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pTYojIc0oZa6jpkdswAN-3" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 18px;&quot;&gt;Kanban&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFFFF;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="190" y="250" width="130" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,9 @@
+{
+  "accentColor": "#935dac",
+  "cssTheme": "Minimal",
+  "theme": "obsidian",
+  "baseFontSize": 18,
+  "enabledCssSnippets": [
+    "dashboard"
+  ]
+}

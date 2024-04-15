@@ -1,0 +1,98 @@
+{
+  "settings": {
+    "migrated": 4,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "SiGit",
+      "SiReadthedocs",
+      "SiInformatica",
+      "LiNetwork",
+      "SiIota"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "debugMode": false
+  },
+  "Programming": "LiComputer",
+  "_Resources": "SiReasonstudios",
+  "_Resources/Templates": "LiLayoutTemplate",
+  "_Resources/Assets": "LiComponent",
+  "_Resources/Assets/Images": "LiImages",
+  "_Resources/Assets/Files": "LiFiles",
+  "_Resources/Assets/Books": "LiBook",
+  "_Resources/Assets/Articles": "LiNotebookText",
+  "Homepage.md": {
+    "iconName": "LiHome",
+    "iconColor": "#ca44a6"
+  },
+  "Programming/Linux": {
+    "iconName": "SiLinux",
+    "iconColor": "#fafe01"
+  },
+  "Programming/Web": {
+    "iconName": "LiScreenShare",
+    "iconColor": "#389f7c"
+  },
+  "Programming/Web/Svelte": {
+    "iconName": "SiSvelte",
+    "iconColor": "#e67d05"
+  },
+  "Programming/Languages/Python": {
+    "iconName": "SiPython",
+    "iconColor": "#19c0e1"
+  },
+  "Programming/Languages/Rust": {
+    "iconName": "SiRust",
+    "iconColor": "#ec6f09"
+  },
+  "Programming/Languages": {
+    "iconName": "LiLanguages",
+    "iconColor": "#943d57"
+  },
+  "Programming/Languages/TypeScript": {
+    "iconName": "SiTypescript",
+    "iconColor": "#4c57f0"
+  },
+  "Kanban.md": {
+    "iconName": "LiKanban",
+    "iconColor": "#60b04a"
+  },
+  "_Resources/Assets/Excalidraw": "SiExcalidraw",
+  "Programming/Desktop": {
+    "iconName": "LiAppWindow",
+    "iconColor": "#7c51cd"
+  },
+  "Programming/Desktop/Tauri": {
+    "iconName": "SiTauri",
+    "iconColor": "#3ea0a8"
+  },
+  "Systems": "LiCombine",
+  "Systems/Data Lake": "FabBlackberry",
+  "Daily Notes": "LiCalendar",
+  "AI": "LiBrainCog",
+  "AI/Machine Learning": "SiGoogledataproc",
+  "IoT": "SiIota",
+  "Network": "LiNetwork",
+  "Systems/CRM-system": "SiReadthedocs",
+  "Programming/Git": {
+    "iconName": "SiGit",
+    "iconColor": "#dc6718"
+  },
+  "Systems/Information Systems": "SiInformatica"
+}
