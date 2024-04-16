@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - main
 title: Network
 create: 2024-04-14
 id: 

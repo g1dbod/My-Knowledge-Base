@@ -1,11 +1,12 @@
 ---
 tags:
   - MachineLearning
+  - AI
 title: Как работает ML‑специалист
 create: 2024-04-14
 id: 8
 location: Machine Learning
-link: "[[Machine Learning]]"
+link: "[[Что такое машинное обучение]]"
 ---
 
 Работа с обучением модели делится на пять этапов:

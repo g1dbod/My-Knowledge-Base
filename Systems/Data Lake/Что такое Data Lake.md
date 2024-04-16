@@ -1,6 +1,7 @@
 ---
 tags:
   - DataLake
+  - System
 title: Что такое Data Lake
 create: 2024-04-14
 id: 1

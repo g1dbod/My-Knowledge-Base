@@ -27,9 +27,14 @@
     "iconsInNotesEnabled": true,
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
-    "debugMode": false
+    "debugMode": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor"
   },
-  "Programming": "LiComputer",
+  "Programming": {
+    "iconName": "LiComputer",
+    "iconColor": "#b66f35"
+  },
   "_Resources": "SiReasonstudios",
   "_Resources/Templates": "LiLayoutTemplate",
   "_Resources/Assets": "LiComponent",
@@ -82,13 +87,28 @@
     "iconName": "SiTauri",
     "iconColor": "#3ea0a8"
   },
-  "Systems": "LiCombine",
+  "Systems": {
+    "iconName": "LiCombine",
+    "iconColor": "#51b8d2"
+  },
   "Systems/Data Lake": "FabBlackberry",
-  "Daily Notes": "LiCalendar",
-  "AI": "LiBrainCog",
+  "Daily Notes": {
+    "iconName": "LiCalendar",
+    "iconColor": "#823fd5"
+  },
+  "AI": {
+    "iconName": "LiBrainCog",
+    "iconColor": "#cbde3b"
+  },
   "AI/Machine Learning": "SiGoogledataproc",
-  "IoT": "SiIota",
-  "Network": "LiNetwork",
+  "IoT": {
+    "iconName": "SiIota",
+    "iconColor": "#36dd95"
+  },
+  "Network": {
+    "iconName": "LiNetwork",
+    "iconColor": "#cf3f5c"
+  },
   "Systems/CRM-system": "SiReadthedocs",
   "Programming/Git": {
     "iconName": "SiGit",

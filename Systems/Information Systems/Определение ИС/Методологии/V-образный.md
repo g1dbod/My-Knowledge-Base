@@ -1,6 +1,7 @@
 ---
 tags:
   - InformationSystems
+  - System
 title: V-образный
 create: 2024-04-15
 id: 

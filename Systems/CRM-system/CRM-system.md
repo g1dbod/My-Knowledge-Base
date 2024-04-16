@@ -1,5 +1,6 @@
 ---
 tags:
+  - CRM
   - System
 title: CRM-system
 create: 2024-04-14

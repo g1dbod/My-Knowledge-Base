@@ -1,6 +1,7 @@
 ---
 tags:
   - DataLake
+  - System
 title: Как работают Data Lake
 create: 2024-04-14
 id: 4

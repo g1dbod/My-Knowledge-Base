@@ -3,15 +3,24 @@ tags:
   - System
 title: Information Systems
 create: 2024-04-15
-id: 3
+id: 0
 location: System
 link: "[[System]]"
 ---
+# Содержание
 
+## Определение ИС
 ```dataview
-List From #InformationSystems Where location="InformationSystems" Sort id
+List From #InformationSystems Where location="Определение ИС" Sort id
 ```
 
+## Ресурсы ИС
+```dataview
+List From #InformationSystems Where location="Ресурсы ИС" Sort id
+```
+
+
+---
 
 ## Источники 
 

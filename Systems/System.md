@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - main
 title: System
 create: 2024-04-15
 id: 
