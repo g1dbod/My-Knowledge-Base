@@ -1,9 +1,13 @@
 {
   "accentColor": "#935dac",
-  "cssTheme": "Minimal",
+  "cssTheme": "AnuPpuccin",
   "theme": "obsidian",
-  "baseFontSize": 18,
+  "baseFontSize": 16,
   "enabledCssSnippets": [
+    "extended-colorschemes2",
+    "extended-colorschemes",
     "dashboard"
-  ]
+  ],
+  "interfaceFontFamily": "Arial",
+  "textFontFamily": "Arial"
 }

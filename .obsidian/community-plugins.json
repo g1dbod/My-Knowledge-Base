@@ -1,24 +1,18 @@
 [
-  "obsidian-advanced-slides",
   "table-editor-obsidian",
   "obsidian-auto-link-title",
   "better-word-count",
-  "cmenu-plugin",
   "homepage",
   "obsidian-icon-folder",
   "obsidian-kanban",
   "obsidian-style-settings",
   "obsidian-tasks-plugin",
-  "obsidian-minimal-settings",
   "dataview",
-  "obsidian-outliner",
-  "quickadd",
-  "buttons",
   "obsidian-advanced-uri",
   "calendar",
-  "obsidian-mind-map",
   "obsidian-trash-explorer",
-  "obsidian-excalidraw-plugin",
   "obsidian-languagetool-plugin",
-  "obsidian-banners"
+  "mysnippets-plugin",
+  "quick-latex",
+  "editing-toolbar"
 ]

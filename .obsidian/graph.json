@@ -6,7 +6,22 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#Article  ",
+      "color": {
+        "a": 1,
+        "rgb": 14810880
+      }
+    },
+    {
+      "query": "file:Homepage",
+      "color": {
+        "a": 1,
+        "rgb": 65310
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +32,6 @@
   "repelStrength": 12.8118738404453,
   "linkStrength": 0.749833024118738,
   "linkDistance": 186,
-  "scale": 0.1634837056722055,
+  "scale": 0.11660891579457414,
   "close": true
 }

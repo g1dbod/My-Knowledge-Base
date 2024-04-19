@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dd80aec2eedf9b83",
+        "id": "0c2467bf9bd3697e",
         "type": "tabs",
         "children": [
           {
-            "id": "720aa340f8e80ec2",
+            "id": "9702aac4b7e61b4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Programming.md",
+                "file": "Homepage.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5026054382324
+    "width": 306
   },
   "right": {
     "id": "cc39d0fdc18089f0",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Programming.md",
+                "file": "Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Programming.md",
+                "file": "Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Programming.md"
+                "file": "Homepage.md"
               }
             }
           },
@@ -162,61 +162,58 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "publish:Публикация изменений": true,
-      "obsidian-advanced-slides:Show Slide Preview": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "homepage:Open homepage": false,
-      "obsidian-trash-explorer:Open trash explorer": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "720aa340f8e80ec2",
+  "active": "9702aac4b7e61b4f",
   "lastOpenFiles": [
-    "Programming/Linux/История.md",
-    "Programming/Linux/Linux.md",
-    "Systems/Information Systems/Information Systems.md",
-    "AI/AI.md",
-    "Kanban.md",
     "Homepage.md",
-    "Systems/Information Systems/Ресурсы ИС/Ресурсы ИС.md",
-    "Programming/Programming.md",
-    "Programming/Linux/Команды с программами.md",
-    "Programming/Linux/Команды с процессами.md",
-    "Programming/Linux/Команды с файлами.md",
+    "Systems/Information Systems/Анализ методов распределения ресурсов в информационных системах на основе применения алгоритмов машинного обучения.md",
+    "_Resources/Assets/Excalidraw/Drawing 2024-04-17 22.18.01.excalidraw.md",
+    "_Resources/Assets/Canvas",
+    "_Resources/Assets/Excalidraw/Drawing 2024-04-15 21.48.38.excalidraw.md",
     "Systems/System.md",
-    "Machine Learning.md",
-    "AI/Что представляет собой искусственный интеллект.md",
-    "AI/Machine Learning/Что нужно для обучения.md",
-    "AI/Разница между ИИ и машинным обучением.md",
-    "AI/Machine Learning/Какие бывают модели машинного обучения.md",
-    "AI/Сферы применения ИИ в современном мире.md",
-    "AI/Принципы искусственного интеллекта.md",
-    "AI/История возникновения ИИ.md",
-    "AI/Machine Learning/Что такое модели машинного обучения.md",
+    "Systems/Information Systems/Information Systems.md",
+    "Systems/Information Systems/Ресурсы ИС/Роль МО в распределении ресурсов.md",
+    "Systems/Information Systems/Ресурсы ИС/Ресурсы ИС.md",
     "AI/Machine Learning/Что такое машинное обучение.md",
-    "AI/Machine Learning/Примеры использования машинного обучения.md",
+    "Способы распределения ресурсов.md",
+    "Kanban.md",
+    "Systems/Information Systems/Ресурсы ИС/Способы распределения ресурсов.md",
+    "Systems/Information Systems/Ресурсы ИС/Примеры методов распределения ресурсов с использованием МО.md",
+    "_Resources/Assets/Files/Прим_распр_ресур_мо.drawio.crswap",
+    "_Resources/Assets/Images/Pasted image 20240417224638.png",
+    "_Resources/Assets/Images/Pasted image 20240417224444.png",
+    "_Resources/Assets/Images/Pasted image 20240417224204.png",
+    "_Resources/Assets/Images/Pasted image 20240417224128.png",
+    "_Resources/Assets/Images/Pasted image 20240417223911.png",
+    "_Resources/Assets/Images/Pasted image 20240417223835.png",
+    "_Resources/Assets/Images/Pasted image 20240414121248.png",
+    "_Resources/Assets/Images/Pasted image 20240414121334.png",
+    "_Resources/Assets/Images/Pasted image 20240414123029.png",
+    "_Resources/Assets/Images/Pasted image 20240414123337.png",
+    "AI/Machine Learning/Какие бывают модели машинного обучения.md",
     "AI/Machine Learning/Подход к выбору модели машинного обучения.md",
-    "AI/Machine Learning/Как работает ML‑специалист.md",
+    "AI/Machine Learning/Примеры использования машинного обучения.md",
+    "AI/Machine Learning/Что нужно для обучения.md",
+    "AI/Machine Learning/Что такое модели машинного обучения.md",
     "AI/Machine Learning/Как работает машинное обучение.md",
+    "AI/Machine Learning/Как работает ML‑специалист.md",
+    "_Resources/Assets/Files/Прим_распр_ресур_мо.drawio",
+    "Systems/Information Systems/Анализ методов распределения ресурсов информационных систем на основе машинного обучения (2).md",
+    "Systems/Information Systems/Без названия.md",
+    "Machine Learning.md",
+    "Programming/Programming.md",
+    "Programming/Linux/История.md",
     "Systems/Information Systems/Ресурсы ИС",
     "Systems/Information Systems/Определение ИС",
     "Systems/Information Systems/Определение ИС/Информация",
     "Systems/Information Systems/Определение ИС/Информация",
-    "_Resources/Assets/Images/stars-space-blue-galaxy-wallpaper.jpg",
     "_Resources/Assets/Images/Не подтверждено 56758.~",
     "Systems/Information Systems/Определение ИС/Методологии",
     "Systems/Information Systems/Определение ИС/Структуры ИС",
-    "Programming/Git",
-    "Systems/Information Systems",
-    "_Resources/Assets/Articles/МИНСК, КОНФ._2023.pdf",
-    "_Resources/Assets/Images/Pasted image 20240414123425.png",
-    "_Resources/Assets/Images/Pasted image 20240414123337.png",
-    "_Resources/Assets/Images/Pasted image 20240414123029.png",
-    "_Resources/Assets/Images/Pasted image 20240414121334.png",
-    "_Resources/Assets/Images/Pasted image 20240414121248.png",
-    "_Resources/Assets/Images/Pasted image 20240414120446.png",
-    "_Resources/Assets/Images/Pasted image 20240414114043.png",
-    "_Resources/Assets/Images/Pasted image 20240414113314.png",
-    "_Resources/Assets/Images/Pasted image 20240414003045.png",
     "Без названия.canvas"
   ]
 }

@@ -5,9 +5,6 @@
 >[![[Pasted image 20240413171015.png|200]]](obsidian://advanced-uri?vault=My-Knowledge-Base&filepath=Kanban.md)
 
 
-```dataview
-List From #main
-```
 ---
 
 [[AI|Искусственный интеллект]]
@@ -21,7 +18,12 @@ List From #main
 [[Programming]]
 
 ---
+# Статьи
+```dataview
+List From #Article Sort id
+```
 
+---
 # Info
 
 >[!abstract] History:

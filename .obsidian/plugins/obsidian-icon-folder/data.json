@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiCanvas",
       "SiGit",
       "SiReadthedocs",
       "SiInformatica",
-      "LiNetwork",
-      "SiIota"
+      "LiNetwork"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -114,5 +114,6 @@
     "iconName": "SiGit",
     "iconColor": "#dc6718"
   },
-  "Systems/Information Systems": "SiInformatica"
+  "Systems/Information Systems": "SiInformatica",
+  "_Resources/Assets/Canvas": "SiCanvas"
 }

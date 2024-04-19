@@ -1,0 +1,229 @@
+<mxfile host="app.diagrams.net" modified="2024-04-17T20:18:58.056Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="QAg7lmTZNR7zm_zSLO0-" version="24.2.5" type="device">
+  <diagram name="Страница — 1" id="W57KlpOx_ZHQbp5J0HKH">
+    <mxGraphModel dx="1434" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#CC0000;" edge="1" parent="1" source="poJF9xQyP9wNUY7GsPOw-1" target="poJF9xQyP9wNUY7GsPOw-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-1" value="Приоритизация задач" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="442" y="50" width="146" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#CC0000;" edge="1" parent="1" source="poJF9xQyP9wNUY7GsPOw-2" target="poJF9xQyP9wNUY7GsPOw-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-2" value="&lt;div&gt;Предположим, у нас есть кластер серверов, на котором выполняются различные задачи, такие как обработка данных, генерация отчетов и анализ трафика. С использованием метода приоритизации задач мы можем разработать модель машинного обучения, которая на основе характеристик каждой задачи (например, объем данных, сроки выполнения) будет определять их приоритет и распределять ресурсы кластера соответственно.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="327" y="140" width="376" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#CC0000;" edge="1" parent="1" source="poJF9xQyP9wNUY7GsPOw-3" target="poJF9xQyP9wNUY7GsPOw-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#CC0000;" edge="1" parent="1" source="poJF9xQyP9wNUY7GsPOw-3" target="poJF9xQyP9wNUY7GsPOw-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#CC0000;" edge="1" parent="1" source="poJF9xQyP9wNUY7GsPOw-3" target="poJF9xQyP9wNUY7GsPOw-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-3" value="SVM (метод опорных векторов)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="417" y="320" width="196" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-4" value="объем данных" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="305" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-5" value="требуемое время выполнения" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="456.5" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-6" value="текущий приоритет" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="605" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-14" value="Пример" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="160" y="195" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-15" value="Модель машинного обучения" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="160" y="330" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-16" value="Датасет" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="160" y="435" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#CC0000;" edge="1" source="poJF9xQyP9wNUY7GsPOw-35" target="poJF9xQyP9wNUY7GsPOw-37" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-35" value="Динамическое масштабирование" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="442" y="550" width="146" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#CC0000;" edge="1" source="poJF9xQyP9wNUY7GsPOw-37" target="poJF9xQyP9wNUY7GsPOw-42" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-37" value="&lt;div&gt;Представим себе веб-сервис, предоставляющий онлайн-игры. Во время пиковых нагрузок, когда количество одновременных игроков резко увеличивается, система должна автоматически масштабировать количество выделенных серверов, чтобы обеспечить стабильное качество обслуживания.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="327" y="640" width="376" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#CC0000;" edge="1" source="poJF9xQyP9wNUY7GsPOw-42" target="poJF9xQyP9wNUY7GsPOw-43" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#CC0000;" edge="1" source="poJF9xQyP9wNUY7GsPOw-42" target="poJF9xQyP9wNUY7GsPOw-44" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#CC0000;" edge="1" source="poJF9xQyP9wNUY7GsPOw-42" target="poJF9xQyP9wNUY7GsPOw-45" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-42" value="Дерево решений (Decision Trees)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="417" y="820" width="196" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-43" value="количество игроков" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="305" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-44" value="активность игровых сессий" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="456.5" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-45" value="количество выделенных серверов" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="605" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-47" value="Пример" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="160" y="695" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-48" value="Модель машинного обучения" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="160" y="830" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-49" value="Датасет" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="160" y="935" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#CC0000;" edge="1" source="poJF9xQyP9wNUY7GsPOw-51" target="poJF9xQyP9wNUY7GsPOw-53" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-51" value="Распределение по запросу" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="442" y="1030" width="146" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#CC0000;" edge="1" source="poJF9xQyP9wNUY7GsPOw-53" target="poJF9xQyP9wNUY7GsPOw-57" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-53" value="&lt;div&gt;Рассмотрим систему мониторинга сетевого трафика, которая должна распределять ресурсы для анализа сетевых пакетов в реальном времени. В зависимости от типа трафика (например, видео, аудио, текстовые данные) система должна динамически выделять ресурсы для обработки и анализа.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="327" y="1120" width="376" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#CC0000;" edge="1" source="poJF9xQyP9wNUY7GsPOw-57" target="poJF9xQyP9wNUY7GsPOw-58" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#CC0000;" edge="1" source="poJF9xQyP9wNUY7GsPOw-57" target="poJF9xQyP9wNUY7GsPOw-59" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#CC0000;" edge="1" source="poJF9xQyP9wNUY7GsPOw-57" target="poJF9xQyP9wNUY7GsPOw-60" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-57" value="Нейронные сети" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="417" y="1300" width="196" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-58" value="тип сетевого трафика" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="305" y="1400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-59" value="объем сетевого трафика" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="456.5" y="1400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-60" value="выделенные ресурсы" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="605" y="1400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-61" value="Пример" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1175" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-62" value="Модель машинного обучения" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1310" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-63" value="Датасет" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1415" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#CC0000;" edge="1" source="poJF9xQyP9wNUY7GsPOw-65" target="poJF9xQyP9wNUY7GsPOw-67" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-65" value="Автоматическое обнаружение аномалий и реагирование" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="442" y="1520" width="146" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#CC0000;" edge="1" source="poJF9xQyP9wNUY7GsPOw-67" target="poJF9xQyP9wNUY7GsPOw-71" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-67" value="&lt;div&gt;Предположим, у нас есть система мониторинга сетевой активности, которая на основе анализа данных о сетевом трафике автоматически выявляет аномалии, такие как атаки DDoS или внутренние нарушения безопасности.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="327" y="1610" width="376" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#CC0000;" edge="1" source="poJF9xQyP9wNUY7GsPOw-71" target="poJF9xQyP9wNUY7GsPOw-72" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#CC0000;" edge="1" source="poJF9xQyP9wNUY7GsPOw-71" target="poJF9xQyP9wNUY7GsPOw-73" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#CC0000;" edge="1" source="poJF9xQyP9wNUY7GsPOw-71" target="poJF9xQyP9wNUY7GsPOw-74" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-71" value="Кластерный анализ (Clustering)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="417" y="1790" width="196" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-72" value="тип сетевого запроса" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-73" value="объем трафика" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="381.5" y="1890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-74" value="источники" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-75" value="Пример" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1665" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-76" value="Модель машинного обучения" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1800" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-77" value="Датасет" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1905" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-78" value="назначение пакета" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#CC0000;" edge="1" parent="1" source="poJF9xQyP9wNUY7GsPOw-71" target="poJF9xQyP9wNUY7GsPOw-78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="1820" as="sourcePoint" />
+            <mxPoint x="755" y="1870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#CC0000;" edge="1" source="poJF9xQyP9wNUY7GsPOw-82" target="poJF9xQyP9wNUY7GsPOw-84" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-82" value="Очереди и управление задержками" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="442" y="2000" width="146" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#CC0000;" edge="1" source="poJF9xQyP9wNUY7GsPOw-84" target="poJF9xQyP9wNUY7GsPOw-88" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-84" value="&lt;div&gt;Представим себе банковскую систему, где необходимо обрабатывать транзакции клиентов. С использованием метода управления задержками можно организовать очередь транзакций таким образом, чтобы срочные и важные транзакции обрабатывались в первую очередь, минимизируя время ожидания клиентов.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="327" y="2090" width="376" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#CC0000;" edge="1" source="poJF9xQyP9wNUY7GsPOw-88" target="poJF9xQyP9wNUY7GsPOw-89" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#CC0000;" edge="1" source="poJF9xQyP9wNUY7GsPOw-88" target="poJF9xQyP9wNUY7GsPOw-90" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#CC0000;" edge="1" source="poJF9xQyP9wNUY7GsPOw-88" target="poJF9xQyP9wNUY7GsPOw-91" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-88" value="Градиентный бустинг (Gradient Boosting)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="417" y="2270" width="196" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-89" value="сумма транзакции" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="305" y="2370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-90" value="тип операции" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="456.5" y="2370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-91" value="текущий статус в очереди" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="605" y="2370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-92" value="Пример" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="160" y="2145" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-93" value="Модель машинного обучения" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="160" y="2280" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="poJF9xQyP9wNUY7GsPOw-94" value="Датасет" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="160" y="2385" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
