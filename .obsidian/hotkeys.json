@@ -14,5 +14,31 @@
       ],
       "key": "C"
     }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ],
+  "url-into-selection:paste-url-into-selection": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "V"
+    }
+  ],
+  "obsidian-auto-link-title:auto-link-title-normal-paste": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "V"
+    }
   ]
 }

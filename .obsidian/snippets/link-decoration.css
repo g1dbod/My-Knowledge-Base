@@ -1,0 +1,11 @@
+.theme-light, .theme-dark, .cm-underline, .cm-underline:hover {
+  --link-decoration: none;
+  --link-decoration-hover: none;
+  --link-external-decoration: none;
+  /* --link-external-decoration: underline; 
+  --link-external-decoration-hover: underline; */
+}
+
+.external-link {
+  background-image: none;
+}

@@ -1,7 +1,6 @@
 [
   "table-editor-obsidian",
   "obsidian-auto-link-title",
-  "better-word-count",
   "homepage",
   "obsidian-icon-folder",
   "obsidian-kanban",
@@ -12,7 +11,14 @@
   "calendar",
   "obsidian-trash-explorer",
   "obsidian-languagetool-plugin",
-  "mysnippets-plugin",
   "quick-latex",
-  "editing-toolbar"
+  "editing-toolbar",
+  "obsidian-hider",
+  "obsidian-outliner",
+  "recent-files-obsidian",
+  "obsidian-emoji-toolbar",
+  "url-into-selection",
+  "cmdr",
+  "mysnippets-plugin",
+  "obsidian-diagrams-net"
 ]

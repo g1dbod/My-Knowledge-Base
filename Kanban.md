@@ -4,7 +4,7 @@ kanban-plugin: basic
 
 ---
 
-## Ожидание
+## Мысли
 
 - [ ] [[Команды с программами]]
 - [ ] [[Команды с процессами]]
@@ -19,15 +19,11 @@ kanban-plugin: basic
 - [ ] [http](https://practicum.yandex.ru/blog/chto-takoe-protokol-http/)
 
 
-## Обработка
+## В процессе
 
 
 
-## Согласование
-
-
-
-## Завершение
+## Завершенные
 
 **Complete**
 

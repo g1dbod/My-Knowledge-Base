@@ -1,0 +1,17 @@
+.aura-workspace-background .prompt {
+ background-color: #1b2123dd;
+}
+
+.suggestion-item.mod-complex:hover {
+  background-color: #00000088;
+  cursor: pointer;
+}
+
+.menu {
+  background-color: #1b2123dd;
+}
+
+.menu-item:hover {
+  background-color: #00000088;
+  cursor: pointer;
+}

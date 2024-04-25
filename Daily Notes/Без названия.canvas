@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"c4fd2b1fa073ccba","type":"text","text":"да да ","x":-360,"y":-80,"width":250,"height":60,"color":"6"},
+		{"id":"9b2a78fda4ff97d1","type":"text","text":"да да ","x":20,"y":-110,"width":250,"height":60,"color":"4"},
+		{"id":"fd1567c58df2d157","type":"text","text":"да да ","x":60,"y":100,"width":250,"height":60,"color":"3"},
+		{"id":"21cae42638455241","type":"text","text":"да да ","x":-300,"y":160,"width":250,"height":60,"color":"1"},
+		{"id":"5bb8e1bb96a76280","type":"file","file":"Systems/Information Systems/Анализ методов распределения ресурсов в информационных системах на основе применения алгоритмов машинного обучения.md","x":-820,"y":-180,"width":400,"height":400,"color":"#24dbd8"},
+		{"id":"a986522fc317f711","x":-310,"y":-620,"width":400,"height":400,"type":"file","file":"_Resources/Assets/Books/АРХИТЕКТУРА ЦЕНТРОВ ОБРАБОТКИ ДАННЫХ.pdf"}
+	],
+	"edges":[
+		{"id":"74e4618741a9cfda","fromNode":"c4fd2b1fa073ccba","fromSide":"bottom","toNode":"21cae42638455241","toSide":"top"},
+		{"id":"1244e013a3bd5ec4","fromNode":"c4fd2b1fa073ccba","fromSide":"right","toNode":"9b2a78fda4ff97d1","toSide":"left"},
+		{"id":"35f04b921b00ee2a","fromNode":"9b2a78fda4ff97d1","fromSide":"bottom","toNode":"fd1567c58df2d157","toSide":"top"},
+		{"id":"a6f6a42e27649618","fromNode":"fd1567c58df2d157","fromSide":"left","toNode":"21cae42638455241","toSide":"right"},
+		{"id":"99e8e62814d2d005","fromNode":"5bb8e1bb96a76280","fromSide":"right","toNode":"c4fd2b1fa073ccba","toSide":"left"},
+		{"id":"5dc016673bf4aade","fromNode":"a986522fc317f711","fromSide":"bottom","toNode":"c4fd2b1fa073ccba","toSide":"top"}
+	]
+}

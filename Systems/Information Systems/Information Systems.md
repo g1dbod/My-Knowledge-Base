@@ -1,6 +1,7 @@
 ---
 tags:
   - System
+  - InformationSystems
 title: Information Systems
 create: 2024-04-15
 id: 0

@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "BoBxsMicrochip",
+      "LiCalendarDays",
       "SiCanvas",
       "SiGit",
-      "SiReadthedocs",
-      "SiInformatica",
-      "LiNetwork"
+      "SiReadthedocs"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -93,8 +93,8 @@
   },
   "Systems/Data Lake": "FabBlackberry",
   "Daily Notes": {
-    "iconName": "LiCalendar",
-    "iconColor": "#823fd5"
+    "iconName": "LiCalendarDays",
+    "iconColor": "#bf5a95"
   },
   "AI": {
     "iconName": "LiBrainCog",
@@ -115,5 +115,6 @@
     "iconColor": "#dc6718"
   },
   "Systems/Information Systems": "SiInformatica",
-  "_Resources/Assets/Canvas": "SiCanvas"
+  "_Resources/Assets/Canvas": "SiCanvas",
+  "Systems/Встроенные вычислительные системы": "BoBxsMicrochip"
 }

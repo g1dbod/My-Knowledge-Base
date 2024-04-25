@@ -1,13 +1,17 @@
 {
-  "accentColor": "#935dac",
-  "cssTheme": "AnuPpuccin",
+  "accentColor": "",
+  "cssTheme": "Aura",
   "theme": "obsidian",
   "baseFontSize": 16,
   "enabledCssSnippets": [
     "extended-colorschemes2",
+    "dashboard",
     "extended-colorschemes",
-    "dashboard"
+    "a-text-decoration",
+    "Title",
+    "modal-background",
+    "link-decoration"
   ],
-  "interfaceFontFamily": "Arial",
-  "textFontFamily": "Arial"
+  "interfaceFontFamily": "",
+  "textFontFamily": ""
 }
